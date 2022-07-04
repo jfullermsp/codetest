@@ -1,1 +1,2 @@
 This app pulls json and manipulates it in PHP before outputting json again to be used with javascript to display the info in a table
+The config file can be used to set constants to show multiple matches or to only show multiple matches on a tie instead of picking the first one.
