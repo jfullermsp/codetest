@@ -1,0 +1,1 @@
+This app pulls json and manipulates it in PHP before outputting json again to be used with javascript to display the info in a table
